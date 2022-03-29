@@ -10,3 +10,6 @@ print ("hhhhhhhhyyyyyyyyyy")
 
 def ddd():
     print("rrr")
+
+
+    # обновление
